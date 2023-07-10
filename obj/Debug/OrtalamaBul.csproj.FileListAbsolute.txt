@@ -1,0 +1,10 @@
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\bin\Debug\OrtalamaBul.exe.config
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\bin\Debug\OrtalamaBul.exe
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\bin\Debug\OrtalamaBul.pdb
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.csproj.AssemblyReference.cache
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.Form1.resources
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.Properties.Resources.resources
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.csproj.GenerateResource.cache
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.csproj.CoreCompileInputs.cache
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.exe
+C:\Users\İsmailPc\Source\Repos\new solution\OrtalamaBul\obj\Debug\OrtalamaBul.pdb
